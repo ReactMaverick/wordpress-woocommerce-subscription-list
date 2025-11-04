@@ -24,3 +24,5 @@
 
 ✔ Load Testing: If dealing with large subscriber lists, test the performance impact of loading and exporting data.
 
+
+Powered by <a href="https://www.websadroit.com" target="_blank">Websadroit</a>
